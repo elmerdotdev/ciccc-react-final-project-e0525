@@ -9,7 +9,7 @@
 3. Utilize GitHub Projects for your tasks.
 4. Create and name your branches accordingly depending on the type of task you are working on.
 5. Make use of automation tools such as [Prettier](https://prettier.io/), [ESLint](https://eslint.org/), [Husky](https://www.npmjs.com/package/husky), or even [Biome](https://www.npmjs.com/package/@biomejs/biome)!
-6. Commit and push your final changes to the `main` branch at the end of the project week.
+6. Commit and push your final changes to the `main` branch by the end of the project week.
 
 ## Features ✅
 
@@ -44,7 +44,7 @@ Choose at least one:
 
 ### Deployment
 
-Depending on your stack, deploy your project through any of these platforms:
+Depending on your stack, deploy your project through any of these free platforms:
 
 - [Vercel](https://vercel.com/)
 - [Render](https://render.com/)
@@ -55,6 +55,7 @@ You can also choose to self-deploy in a custom server such as AWS or Google Clou
 
 - Your MVP needs to be responsive.
 - Design an ERD first before creating your database. This will help you layout how your data are connected and stored.
+- Make sure to store any API keys and other credentials inside your `.env` files. Never commit them into your respoitory!
 - Communicate with your teammates.
 
 _Good luck with your project and looking forward to your work 🎉🎉🎉_
